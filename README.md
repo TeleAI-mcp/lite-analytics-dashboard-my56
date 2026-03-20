@@ -1,2 +1,3 @@
-# lite-analytics-dashboard-my56
-Analytics dashboard for modern development workflows
+# Lite Analytics Dashboard My56
+
+A analytics dashboard for modern development workflows.
